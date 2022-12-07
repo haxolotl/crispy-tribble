@@ -1,2 +1,6 @@
 # crispy-tribble
-I don't know what we're doing in here yet
+run using
+
+```
+"ts-node main.ts
+```
